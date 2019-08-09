@@ -24,7 +24,7 @@ SECRET_KEY = '9^5$5w#(tnjeipis)h86g6b#ayvouk0(#xqh(-uo3*(iz-06!3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['127.0.0.1', 'pinpin.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pinpin.pythonanywhere.com']
 
 
 # Application definition
